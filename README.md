@@ -1,1 +1,1 @@
-# Standard-and-Scientific-Calculator-in-python
+Standard and scientific calculator using tkinter and math module in Python.
